@@ -82,7 +82,8 @@ template.html
 </html>
 
 ## SERVER SIDE PROCESSING:
-![Uploading Screenshot 2025-12-24 102232.png…]()
+<img width="1070" height="722" alt="Screenshot 2025-12-24 102232" src="https://github.com/user-attachments/assets/c5d711e2-c4d5-4a30-b3db-b3a12f0c088f" />
+
 
 
 ## HOMEPAGE:
