@@ -82,7 +82,8 @@ template.html
 </html>
 
 ## SERVER SIDE PROCESSING:
-[text](../../OneDrive/Pictures/Screenshots)
+![Uploading Screenshot 2025-12-24 102232.png…]()
+
 
 ## HOMEPAGE:
 
